@@ -1,5 +1,5 @@
-Ubuntu Debian 9 Zeroc Ice Python Builder
-=======================================
+Ubuntu Debian 9 Zeroc Ice Python 3 Builder
+==========================================
 
 Builds Zeroc Ice wheel for Debian 9.
 
